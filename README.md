@@ -24,7 +24,7 @@ A clean, responsive weather app built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 
-🔗 https://cloudcheckr.netlify.app
+🔗 https://cloudcheckrnoweasy.netlify.app
 
 
 ## 🧑‍💻 How to Run Locally
