@@ -1,20 +1,19 @@
-# 🌤️ Weather App
+# 🌤️ Weather App - CloudCheckr
 
-This is a simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the OpenWeatherMap API and displays the current weather of any city entered by the user.
+A clean, responsive weather app built using **HTML**, **CSS**, and **JavaScript**. CloudCheckr shows real-time weather updates for any city using the OpenWeatherMap API.
 
-## 🔥 Features
+## 🔍 Features
 
-- Search weather by city name
-- Displays temperature, weather condition, humidity, and wind speed
-- Clean and modern UI
-- Mobile & tablet responsive
-- Error handling for invalid cities
+- 🌐 Search weather by city name
+- 📊 Shows temperature, humidity, wind speed, and weather condition
+- ✅ Clean and modern user interface
+- 📱 Fully responsive for mobile and tablet
+- ⚠️ Error handling for invalid city inputs
 
-## 🚀 Future Enhancements
+## 🔮 Upcoming Features
 
 - 🌙 Dark mode toggle
-- 🎙️ Voice-based city search
-- 📍 Detect current location weather using Geolocation API
+- 📍 Weather based on your current location
 
 ## 🛠️ Tech Stack
 
@@ -23,10 +22,14 @@ This is a simple and responsive Weather App built using **HTML**, **CSS**, and *
 - JavaScript (Vanilla)
 - OpenWeatherMap API
 
+## 🚀 Live Demo
 
-## 💡 How to Use
+🔗 https://cloudcheckr.netlify.app
 
-1. Clone the repository
+
+## 🧑‍💻 How to Run Locally
+
 ```bash
-git clone https://github.commayursonar91/weather-app.git
-
+git clone https://github.com/mayursonar91/weather-app.git
+cd weather-app
+# Then just open index.html in your browser
